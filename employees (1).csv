@@ -1,0 +1,21 @@
+ID,Nome,Idade,Cargo,Salário,Data_Admissão,Departamento
+1,Ana Silva,34,Analista de Dados,7500,2018-03-15,TI
+2,Carlos Lima,29,Cientista de Dados,10500,2020-07-10,TI
+3,Beatriz Souza,41,Gerente de Projetos,15000,2015-11-25,Gestão
+4,João Mendes,38,Desenvolvedor,8200,2017-09-08,TI
+5,Fernanda Rocha,26,UX Designer,6700,2021-05-14,Design
+6,Marcos Andrade,32,Engenheiro de Software,11500,2019-02-21,TI
+7,Luciana Alves,30,DBA,9800,2022-06-30,TI
+8,Ricardo Pinto,40,Analista de Segurança,8700,2016-04-10,Segurança
+9,Gabriela Costa,27,Analista de BI,9200,2018-12-12,BI
+10,Paulo Oliveira,36,Scrum Master,10800,2017-11-05,Gestão
+11,Vanessa Martins,45,Arquiteto de Software,14500,2014-08-15,TI
+12,Thiago Ribeiro,31,Desenvolvedor,8600,2019-10-23,TI
+13,Patrícia Nunes,29,Gerente de TI,15800,2013-06-30,Gestão
+14,Fernando Duarte,39,Analista de Sistemas,9100,2016-07-18,TI
+15,Juliana Rocha,28,Analista de UX,7500,2020-03-22,Design
+16,Eduardo Gomes,35,Desenvolvedor Front-End,10200,2018-09-17,TI
+17,Carolina Ribeiro,33,Desenvolvedor Back-End,10700,2019-12-05,TI
+18,Rodrigo Alves,37,Gerente de Infra,16500,2015-05-20,Infra
+19,Mônica Cardoso,42,Diretor de TI,18000,2012-03-10,Gestão
+20,Gustavo Lopes,50,CTO,22000,2010-01-05,Gestão
